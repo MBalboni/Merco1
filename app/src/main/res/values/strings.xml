@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Merco</string>
+    <string name="oi">Oi</string>
+    <string name="title_activity_tel">TELA</string>
+    <string name="title_activity_minha_lista">minhaLista</string>
+</resources>
